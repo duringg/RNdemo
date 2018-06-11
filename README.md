@@ -1,1 +1,2 @@
 # RNdemo
+mobx  + react navigation
